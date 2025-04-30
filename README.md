@@ -1,1 +1,1 @@
-# Music-Player
+# Music-Player This project is developed in C++ and makes use of standard libraries to deliver a fast and stable music player. The primary objective of this project is to develop a music player application that enables users to play, save, and organize digital audio files on their computer system. The application will have an easy-to-use user interface, enabling users to easily manage and access their music library.

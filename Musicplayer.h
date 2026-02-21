@@ -28,4 +28,4 @@ private:
     QPushButton *stopButton;
 };
 
-#endif // MUSICPLAYER_H
+#endif 
